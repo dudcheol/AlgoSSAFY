@@ -1,2 +1,6 @@
 #ignore all files in this dir....
 **/**/*.keep
+.idea/*
+out/*
+src/*
+AlgoSSAFY.iml
