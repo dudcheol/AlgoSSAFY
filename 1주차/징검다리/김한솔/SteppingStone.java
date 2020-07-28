@@ -35,8 +35,8 @@ public class SteppingStone {
         }
         
         while(true) {
-        	if(max <= min) { // 해당 인원 수 만큼 건널 수 있다
-        		answer = max+1;
+        	if(max < min) { // 해당 인원 수 만큼 건널 수 있다
+        		answer = min;
         		break;
         	}
         	
