@@ -34,7 +34,7 @@ public class CrossBridge {
                 cnt++;
                 if (cnt == K) {
                     // 건널 수 없는 다리면 건널 인원 줄여보기
-                    return crossBridge(min, mid);
+                    return crossBridge(min, mid - 1);
                 }
             } else cnt = 0;
         }
@@ -45,7 +45,7 @@ public class CrossBridge {
     public static void main(String[] args) {
         int[] stones = {2, 4, 5, 3, 2, 1, 4, 2, 5, 1};
 //        int[] stones = {2, 4, 5, 4, 3, 2, 1, 9, 5, 1};
-        int k = 4;
+        int k = 3;
 
         System.out.println(solution(stones, k));
     }
