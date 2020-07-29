@@ -1,0 +1,6 @@
+# 1주차-1(~07/29)
+* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+* [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+* [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+* [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)
+* [징검다리](https://programmers.co.kr/learn/courses/30/lessons/64062)
