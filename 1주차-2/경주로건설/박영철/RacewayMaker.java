@@ -1,21 +1,26 @@
 package week1;
 
+import java.util.Arrays;
+
 public class RacewayMaker {
     static int[] dy = {0, 1, -1, 0}; // 우하상좌
     static int[] dx = {1, 0, 0, -1};
+    static int[] reverseDir = {3, 2, 1, 0};
     static int[][] map;
-    static boolean[][] visited;
+    static int[][] visited;
     static int n;
     static int answer;
 
-    static void dfs(int y, int x, int jik, int cor, int dir) {
+    static void dfs(int y, int x, int cost, int dir) {
         // basis
         if (y == n - 1 && x == n - 1) {
-            answer = Math.min(answer, 100 * jik + 500 * cor);
+            answer = Math.min(answer, cost);
             return;
         }
 
         for (int i = 0; i < 4; i++) {
+//            if (dir != -1 && reverseDir[dir] == i) continue;
+
             int ny = y + dy[i];
             int nx = x + dx[i];
 
@@ -23,33 +28,50 @@ public class RacewayMaker {
                 continue;
             }
 
-            if (visited[ny][nx]) {
+            if (visited[ny][nx] < cost) {
                 continue;
             }
 
-            visited[y][x] = true;
+            visited[y][x] = cost;
             if (dir == -1)
-                dfs(ny, nx, jik + 1, cor, i);
+                dfs(ny, nx, cost + 100, i);
             else
-                dfs(ny, nx, jik + 1, i == dir ? cor : cor + 1, i);
-            visited[y][x] = false;
+                dfs(ny, nx, i == dir ? cost + 100 : cost + 600, i);
         }
     }
 
     static int solution(int[][] board) {
         map = board;
         n = board.length;
-        visited = new boolean[n][n];
+        visited = new int[n][n];
+        for (int i = 0; i < visited.length; i++)
+            Arrays.fill(visited[i], Integer.MAX_VALUE);
         answer = Integer.MAX_VALUE;
 
-        dfs(0, 0, 0, 0, -1);
+        dfs(0, 0, 0, -1);
 
         return answer;
     }
 
     public static void main(String[] args) {
-        int[][] board = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
+        int[][] board = {
+                {0, 0, 0},
+                {0, 0, 0},
+                {0, 0, 0}
+        };
+
+        int[][] board2 = {
+                {0, 0, 0, 0, 0, 0, 0, 1},
+                {0, 0, 0, 0, 0, 0, 0, 0},
+                {0, 0, 0, 0, 0, 1, 0, 0},
+                {0, 0, 0, 0, 1, 0, 0, 0},
+                {0, 0, 0, 1, 0, 0, 0, 1},
+                {0, 0, 1, 0, 0, 0, 1, 0},
+                {0, 1, 0, 0, 0, 1, 0, 0},
+                {1, 0, 0, 0, 0, 0, 0, 0}
+        };
 
         System.out.println(solution(board));
+        System.out.println(solution(board2));
     }
 }
