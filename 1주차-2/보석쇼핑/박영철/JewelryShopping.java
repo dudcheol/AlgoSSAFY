@@ -31,13 +31,13 @@ public class JewelryShopping {
             * 매 반복문마다 map에서 100,000번의 연산이 수행됨 */
             boolean hasAllKind = map.size() == kind;
 
-            if (map.size() == size || (end == gems.length - 1 && !hasAllKind)) break;
+            if (map.size() ==  size || (end == gems.length - 1 && !hasAllKind)) break;
 
             if (!hasAllKind) {
                 // 아직 모든 종류를 사지 않았다면
                 // end 위치의 보석을 확인하여 갯수 추가
                 end++;
-                if (end > gems.length - 1 || start > end) break;
+                if (end > gems.length - 1) break;
                 map.put(gems[end], map.get(gems[end]) + 1);
                 if (map.get(gems[end]) == 1) kind++;
                 continue;
