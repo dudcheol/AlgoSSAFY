@@ -1,4 +1,4 @@
-package com.ssafy.bj.top;
+﻿package programmers;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -22,52 +22,45 @@ public class TopNew {
 		st = new StringTokenizer(br.readLine());
 		Stack<Integer> stack = new Stack<>();
 		Stack<Integer> index = new Stack<>();
-	
-		
-		int count = 1;
-		int tmp;
-		for (int i = 0; i < N; i++) {
-			if(i == 0) {				
-				stack.push(Integer.parseInt(st.nextToken()));
-				index.push(count);
-				string.append("0 ");
-			}
-			else {
-				tmp = Integer.parseInt(st.nextToken());
-				if(stack.peek() > tmp) {
-					string.append(index.peek() + " ");
-					stack.push(tmp);
-					index.push(count);			
-				} 
-				else {
-					
-					if(stack.peek() == tmp) {
-						stack.pop();
-						index.pop();
-						stack.push(tmp);
-						index.push(count);	
-					}	
-					for (int j = 0; j <= stack.size(); j++) {
-						if(stack.peek() > tmp) {
-							string.append(index.peek() + " ");
-							break;
-						}
-						else {		
-							stack.pop();
-							index.pop();
-							if(stack.isEmpty())
-								string.append("0 ");
-						}
-					}
-					stack.push(tmp);
-					index.push(count);
-				}
 
-			}	
+		int count = 1;
+		int tmp;						
+		
+		stack.push(Integer.parseInt(st.nextToken())); // 
+		index.push(count);
+		string.append("0 ");
+		for (int i = 1; i < N; i++) {
+			tmp = Integer.parseInt(st.nextToken());
+			if(stack.peek() > tmp) {
+				string.append(index.peek() + " ");
+				stack.push(tmp);
+				index.push(count);			
+			} 
+			
+			else {
+				if(stack.peek() <= tmp) { // 작은 것도 의미가 없으니 같이 빼줘도 
+					stack.pop();
+					index.pop();
+					stack.push(tmp);
+					index.push(count);	
+				}	
+				for (int j = 0; j <= stack.size(); j++) {
+					if(stack.peek() > tmp) {
+						string.append(index.peek() + " ");
+						break;
+					}
+					else {		
+						if(stack.isEmpty())
+							string.append("0 ");
+					}
+				}
+				stack.push(tmp);
+				index.push(count);
+			}
+
 			count++;
 		}
 		System.out.println(string);
-
 	}
 	
 }
