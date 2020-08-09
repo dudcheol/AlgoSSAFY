@@ -10,3 +10,7 @@
 * [2020 카카오 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 ### 2주차 (08/05, 08/09)
+* 순열과 조합
+* 정렬
+* Union-Find
+* Kruskal Algorithm
