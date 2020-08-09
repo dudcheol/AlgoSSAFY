@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Stack;
 
 public class hanoi {
 	static Stack<int[]> st;
@@ -7,7 +6,6 @@ public class hanoi {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 
-		st=new Stack<>();
 		
 		hoi(1,2,3,n);
 
