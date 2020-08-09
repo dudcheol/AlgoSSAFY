@@ -7,21 +7,12 @@ public class hanoi {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 
-	//	int[] arr=new int[3];
 		st=new Stack<>();
 		
 		hoi(1,2,3,n);
-//		while(!st.isEmpty()) {
-//			int[] arr=st.pop();	
-//			System.out.println(arr[2]+":"+"from:"+arr[0]+"to:"+arr[1]);
-//		}
-//		for(int[] arr:st) {
-//			System.out.println(arr[2]+":"+"from:"+arr[0]+"to:"+arr[1]);
-//		}
-	}
+
 	public static void hoi(int from,int tmp,int to,int n){
 		if(n==1) {
-//			st.push(new int[] {1,3,n});
 			System.out.println(n+" : "+ " "+from+" -> "+to);
 		}
 		else {
