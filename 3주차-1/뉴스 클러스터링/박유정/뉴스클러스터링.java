@@ -14,8 +14,7 @@ public class 뉴스클러스터링 {
 		for (int i = 0; i < arr1.length - 1; i++) {
 			if (check(arr1[i]) && check(arr1[i + 1])) {//연속된 두문자열이 영어인지확인
 				
-				String key = arr1[i] + "" + arr1[i + 1];//두문자열 붙임
-				
+				String key = arr1[i] + "" + arr1[i + 1];//두문자열 붙임				
 				if (hm.containsKey(key)) {//해쉬에 있는지확인
 					hm.put(key, hm.get(key) + 1);//있으면 갯수 +1
 				} else {
@@ -27,7 +26,6 @@ public class 뉴스클러스터링 {
 		for (int i = 0; i < arr2.length - 1; i++) {
 			if (check(arr2[i]) && check(arr2[i + 1])) {
 				String key = arr2[i] + "" + arr2[i + 1];
-				System.out.println(key);
 				if (hm2.containsKey(key)) {
 					hm2.put(key, hm2.get(key) + 1);
 				} else {
