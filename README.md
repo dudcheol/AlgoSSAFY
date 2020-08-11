@@ -14,3 +14,5 @@
 * 정렬
 * Union-Find
 * Kruskal Algorithm
+
+### 3주차 (08/12, 08/16)
