@@ -2,3 +2,7 @@
 out/*
 src/*
 AlgoSSAFY.iml
+/bin/
+.classpath
+.project
+README.md
