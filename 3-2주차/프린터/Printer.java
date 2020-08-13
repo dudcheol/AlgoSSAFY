@@ -50,7 +50,7 @@ public class Printer {
 			
 			// 만약 우선 순위가 가장 높으면 remove
 			if(pre.priorities >= arr.get(0)) { 				
-				if(pre.location == 1)
+				if(pre.location == 1) // answer를 0으로 하고 answer++ 먼저 한 뒤 위치 체크하면 안 됨!!!
 					break;
 				arr.remove(0);	// 가장 높은 우선순위의 문서가 뽑혔으니 삭제	
 				answer++;		// 문서가 뽑힐 때마다 ++
