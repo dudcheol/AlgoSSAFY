@@ -23,7 +23,7 @@ public class Printer {
 	}
 	
 	public static int solution(int[] priorities, int location) {
-		int answer = 0;
+		int answer = 1;
 		
 		Queue<doc> q = new LinkedList<doc>(); // priority 담을 큐
 		ArrayList<Integer> arr = new ArrayList<Integer>();
@@ -49,11 +49,12 @@ public class Printer {
 			}
 			
 			// 만약 우선 순위가 가장 높으면 remove
-			if(pre.priorities >= arr.get(0)) { 
-				arr.remove(0);	// 가장 높은 우선순위의 문서가 뽑혔으니 삭제	
-				answer++;		// 문서가 뽑힐 때마다 ++
+			if(pre.priorities >= arr.get(0)) { 				
 				if(pre.location == 1)
 					break;
+				arr.remove(0);	// 가장 높은 우선순위의 문서가 뽑혔으니 삭제	
+				answer++;		// 문서가 뽑힐 때마다 ++
+
 			}
 			pre = q.poll(); // 다음 문서 탐색
 		}
