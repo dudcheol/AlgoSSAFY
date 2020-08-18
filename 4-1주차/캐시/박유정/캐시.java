@@ -12,7 +12,7 @@ public class 캐시 {
 						q.poll();
 					}
 					if(cacheSize!=0)
-	                    q.add(city);
+						q.add(city);
 					answer+=5;
 				}
 				else {
