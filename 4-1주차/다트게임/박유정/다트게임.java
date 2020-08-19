@@ -9,7 +9,7 @@ public class 다트게임 {
 		for (int i = 0; i < dartResult.length(); i++) {
 			if (Character.isDigit(dartResult.charAt(i))) {
 				num = dartResult.charAt(i) - '0';
-				if (i + 1 < dartResult.length() && Character.isDigit(dartResult.charAt(i + 1))) {//정수두자리수
+				if ( Character.isDigit(dartResult.charAt(i + 1))) {//정수두자리수
 					num = 10;
 					i++;
 				}
