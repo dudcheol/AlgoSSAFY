@@ -39,7 +39,7 @@ public class 실패율 {
 		for (int i = N; i >= 1; i--) {
 			double result = hm.get(i);
 
-			if (result == 0 && prev == 0) {// 도달한사람이 없음,도달한 사람 모두 통과
+			if (result == 0) {// 도달한사람이 없음,도달한 사람 모두 통과
 				fail = 0;
 				result = prev;
 			} else if (result != 0) {
