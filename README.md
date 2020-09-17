@@ -25,3 +25,19 @@
 * Trie 자료구조 학습
 * 2018 카카오 블라인드 채용
 * 2019 카카오 블라인드 채용
+
+### 6주차 (9/2, 9/6)
+* [2019 카카오 블라인드 채용 - 무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
+* [2019 카카오 블라인드 채용 - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+* [Backjoon - 녹색입은 애가 젤다지](https://www.acmicpc.net/problem/4485)
+* [Backjoon - 샘터](https://www.acmicpc.net/problem/18513)
+
+### 7주차 (9/9, 기업 코딩테스트로 인한 휴무)
+* [swexpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&&&)
+* [swexpert - 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE)
+
+### 8주차 (9/16, 9/20)
+* [swexpert - 최솟값으로 이동하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWDTN0cKr1oDFAWD&categoryId=AWDTN0cKr1oDFAWD&categoryType=CODE)
+* [swexpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE)
+* [Backjoon - 스타트 택시](https://www.acmicpc.net/problem/19238)
+* [Backjoon - 어른 상어](https://www.acmicpc.net/problem/19237)
