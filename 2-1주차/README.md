@@ -1,6 +1,0 @@
-﻿# 2주차-1(~08/05)
-* [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-* [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
-* [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
-* [동굴탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
-* [하노이1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=441&sca=2080)
