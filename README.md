@@ -41,3 +41,11 @@
 * [swexpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE)
 * [Backjoon - 스타트 택시](https://www.acmicpc.net/problem/19238)
 * [Backjoon - 어른 상어](https://www.acmicpc.net/problem/19237)
+
+### 9주차 (추석휴무, 10/4)
+* [Backjoon - 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+* [Backjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+
+### 10주차 (10/7, 10/11)
+* [Backjoon - 2048(Easy)](https://www.acmicpc.net/problem/12100)
+* [Backjoon - 뱀](https://www.acmicpc.net/problem/3190)
