@@ -6,7 +6,6 @@ import java.util.StringTokenizer;
 
 public class _12100_2048Easy {
 	static int N;
-	static int[][] map;
 	static int max;
 	static int[] dy = { -1, 1, 0, 0 }; // 상하좌우
 	static int[] dx = { 0, 0, -1, 1 }; // 상하좌우
@@ -16,7 +15,7 @@ public class _12100_2048Easy {
 		// 입력받기
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		N = Integer.parseInt(br.readLine());
-		map = new int[N][N];
+		int[][] map = new int[N][N];
 		for (int i = 0; i < N; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 			for (int j = 0; j < N; j++) {
@@ -25,46 +24,25 @@ public class _12100_2048Easy {
 		}
 
 		max = 0;
-		dfs(0);
+		dfs(0, map);
 		System.out.println(max);
 	}
 
-	private static void dfs(int k) {
+	private static void dfs(int k, int[][] map) {
 		// 최대 5번 이동시켜서 얻을 수 있는 가장 큰 블록 출력
 		if (k == 5) {
-			findMax(); // map에 있는 가장 큰 숫자 찾아서 max 업데이트
+			findMax(map); // map에 있는 가장 큰 숫자 찾아서 max 업데이트
 			return;
 		}
 
-		int[][] tmp = deepCopy(map); // 현재 상태 맵 저장해놓기
-		for (int d = 0; d < 4; d++) {
-			simulate(d);// d 방향으로 이동시키기
-			printMap();
-			dfs(k + 1);
-			for (int i = 0; i < N; i++) { // 맵 원상복귀하기
-				for (int j = 0; j < N; j++) {
-					map[i][j] = tmp[i][j];
-				}
-			}
-		}
+		dfs(k + 1, simulate(0, deepCopy(map)));
+		dfs(k + 1, simulate(1, deepCopy(map)));
+		dfs(k + 1, simulate(2, deepCopy(map)));
+		dfs(k + 1, simulate(3, deepCopy(map)));
 	}
 
-	private static void printMap() {
-		for (int i = 0; i < N; i++) {
-			for (int j = 0; j < N; j++) {
-				System.out.print(map[i][j]);
-			}
-			System.out.println();
-		}
-		System.out.println("------------");
-	}
-
-	private static void simulate(int d) {
-		// d 방향을 기준으로 빈 칸 메꾸기
-		// d 방향부터 시작해서 0인 부분을 찾음
-		// => 0이면 빈칸이므로 d 방향으로 계속 이동해보면서 0이아닌 블럭과 스왑함
-		// => 0이 아니면 다음으로
-		fillBlank(d);
+	private static int[][] simulate(int d, int[][] map) {
+		fillBlank(d, map);
 
 		// d 방향을 기준으로 블럭 합치기
 		// d 방향부터 시작해서 다음줄로 나아가면서 현재줄과 다음줄 비교
@@ -116,11 +94,16 @@ public class _12100_2048Easy {
 			}
 			break;
 		}
-		
-		fillBlank(d);
+
+		// 블럭합치는 작업을 해줬으므로 한 번 더 빈칸 채우기
+		return fillBlank(d, map);
 	}
 
-	private static void fillBlank(int d) {
+	private static int[][] fillBlank(int d, int[][] map) {
+		// d 방향을 기준으로 빈 칸 메꾸기
+		// d 방향부터 시작해서 0인 부분을 찾음
+		// => 0이면 빈칸이므로 d 방향으로 계속 이동해보면서 0이아닌 블럭과 스왑함
+		// => 0이 아니면 다음으로
 		// 상하좌우별로 시작지점이 달라짐
 		switch (d) {
 		case 0:
@@ -149,8 +132,8 @@ public class _12100_2048Easy {
 		case 1:
 		case 3:
 			d = convert[d];
-			for (int i = N-1; i >= 0; i--) {
-				for (int j = N-1; j >= 0; j--) {
+			for (int i = N - 1; i >= 0; i--) {
+				for (int j = N - 1; j >= 0; j--) {
 					if (map[i][j] == 0) {
 						int ny = i;
 						int nx = j;
@@ -170,9 +153,10 @@ public class _12100_2048Easy {
 			}
 			break;
 		}
+		return map;
 	}
 
-	private static void findMax() {
+	private static void findMax(int[][] map) {
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				max = Math.max(max, map[i][j]);
@@ -180,11 +164,22 @@ public class _12100_2048Easy {
 		}
 	}
 
+	// clone보다 System.arraycopy가 더 빠름
 	private static int[][] deepCopy(int[][] origin) {
 		int[][] ret = new int[N][N];
 		for (int i = 0; i < N; i++) {
-			ret[i] = origin[i].clone();
+			System.arraycopy(origin[i], 0, ret[i], 0, N);
 		}
 		return ret;
+	}
+
+	private static void printMap(int[][] map) {
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < N; j++) {
+				System.out.print(map[i][j]);
+			}
+			System.out.println();
+		}
+		System.out.println("------------");
 	}
 }
