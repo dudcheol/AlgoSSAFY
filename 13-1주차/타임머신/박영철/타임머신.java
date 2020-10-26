@@ -11,7 +11,7 @@ public class 타임머신 {
 	private static int N;
 	private static int M;
 	private static final int INF = Integer.MAX_VALUE;
-	private static int[] Dist;
+	private static long[] Dist;
 	private static ArrayList<Edge> edges;
 
 	private static class Edge {
@@ -32,7 +32,11 @@ public class 타임머신 {
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
 
-		Dist = new int[N + 1]; // 1번 정점에서 출발하여 2, 3, ... , N번 정점까지의 최단거리를 기록할 배열
+		// 주의!!!!!!!!!!!!!!!!!!
+		// 비용의 범위는 -10000 <= cost <= 10000 이다.
+		// -500 * 6000 * 10000 = -3 * 10^10, Integer.MIN_VALUE = 약 -2*10^9
+		// 이미 INF를 초과하는 수치가 나올 수 있기 때문에 underflow 발생 시 알고리즘이 제대로 적용되지 않을 수 있다.
+		Dist = new long[N + 1]; // 1번 정점에서 출발하여 2, 3, ... , N번 정점까지의 최단거리를 기록할 배열
 		Arrays.fill(Dist, INF); // "최단거리"를 기록할 것이므로 초기값으로 INF
 
 		edges = new ArrayList<>(); // 벨만-포드 알고리즘은 "간선"중심으로 풀어나갈 수 있는 알고리즘이다!
