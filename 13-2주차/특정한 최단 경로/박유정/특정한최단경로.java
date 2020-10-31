@@ -46,7 +46,7 @@ public class 특정한최단경로 {
 				}
 			}
 		}
-		int answer=Math.min(arr[0][a]+arr[a][b]+arr[b][N-1],arr[0][b]+arr[b][a]+arr[a][N-1]); 
+		int answer=Math.min(arr[0][a]+arr[a][b]+arr[b][N-1],arr[0][b]+arr[b][a]+arr[a][N-1]); //0->a->b->n-1, 0->b->a->n-1
 		if(answer>=INF)
 			System.out.println(-1);
 		else {
