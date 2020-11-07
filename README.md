@@ -1,4 +1,11 @@
 ﻿# AlgoSSAFY
+
+## 현재까지 푼 문제 수(총 42문제)
+* BackJoon : 21문제
+* Programmers : 17문제
+* SWExpert : 4문제
+
+
 * [프로그래머스](https://programmers.co.kr/)
 * [정보 올림피아드](http://www.jungol.co.kr/)
 
@@ -49,3 +56,31 @@
 ### 10주차 (10/7, 10/11)
 * [Backjoon - 2048(Easy)](https://www.acmicpc.net/problem/12100)
 * [Backjoon - 뱀](https://www.acmicpc.net/problem/3190)
+* [Backjoon - 경사로](https://www.acmicpc.net/problem/14890)
+* [Backjoon - 시험 감독](https://www.acmicpc.net/problem/13458)
+
+### 11주차 (10/14, 삼성 역량테스트로 인한 휴무)
+* [Backjoon - 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+* [Backjoon - 큐빙](https://www.acmicpc.net/problem/5373)
+
+### 12주차 (10/21, 10/25)
+* [Programmers - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+* [Programmers - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+* [Kruskal Algorithm](https://blog.naver.com/ssarang8649/221038259400)
+* [Prim Algorithm](http://blog.naver.com/PostView.nhn?blogId=ssarang8649&logNo=220992988177)
+* [Dijkstra Algorithm](https://gaybee.tistory.com/34)
+* [Floyd-Warshall Algorithm](https://velog.io/@pandahun/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A6%AC-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EB%B0%B1%EC%A4%80-11404-java)
+* [Bellman-Ford Algorithm](https://code0xff.tistory.com/24)
+
+### 13주차 (10/28, 11/01)
+* [Backjoon - 빗물](https://www.acmicpc.net/problem/14719)
+* [Backjoon - 타임머신](https://www.acmicpc.net/problem/1440)
+* [Backjoon - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+* [Backjoon - 특정한 최단 경우](https://www.acmicpc.net/problem/1504)
+
+### 14주차 (11/04, 11/08)
+* [Backjoon - Puyo Puyo](https://www.acmicpc.net/problem/11559)
+* [Backjoon - 나이트의 이동](https://www.acmicpc.net/problem/7562)
+* [Backjoon - 네트워크 연결](https://www.acmicpc.net/problem/1922)
+* [Backjoon - 불!](https://www.acmicpc.net/problem/4179)
+* [Backjoon - 적록색약](https://www.acmicpc.net/problem/10026)
