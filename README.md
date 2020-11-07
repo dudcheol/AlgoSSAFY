@@ -5,10 +5,6 @@
 * Programmers : 17문제
 * SWExpert : 4문제
 
-
-* [프로그래머스](https://programmers.co.kr/)
-* [정보 올림피아드](http://www.jungol.co.kr/)
-
 ### 1주차 (07/29, 08/01)
 * [해시](https://d2.naver.com/helloworld/831311)
 * [Java 8 API 스택 공식문서](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html)
