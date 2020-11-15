@@ -80,3 +80,10 @@
 * [Backjoon - 네트워크 연결](https://www.acmicpc.net/problem/1922)
 * [Backjoon - 불!](https://www.acmicpc.net/problem/4179)
 * [Backjoon - 적록색약](https://www.acmicpc.net/problem/10026)
+
+### 15주차 (11/11, 11/15)
+* [백준-무서운 아르바이트](https://www.acmicpc.net/problem/12846)
+* [백준-SNS](https://www.acmicpc.net/problem/2533)
+* [백준-게임 개발](https://www.acmicpc.net/problem/1516)
+* [백준 - 외계인의 기타연주](https://www.acmicpc.net/problem/2841)
+* [백준 - 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
