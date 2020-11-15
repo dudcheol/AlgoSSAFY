@@ -87,3 +87,7 @@
 * [Backjoon - 게임 개발](https://www.acmicpc.net/problem/1516)
 * [Backjoon - 외계인의 기타연주](https://www.acmicpc.net/problem/2841)
 * [Backjoon - 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
+
+### 16주차 (11/18)
+* [Backjoon - 후보 추천하기](https://www.acmicpc.net/problem/1713)
+* [Backjoon - 미친 아두이노](https://www.acmicpc.net/problem/8972)
