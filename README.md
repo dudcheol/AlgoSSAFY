@@ -91,5 +91,8 @@
 ### 16주차 (11/18, 11/22)
 * [Backjoon - 후보 추천하기](https://www.acmicpc.net/problem/1713)
 * [Backjoon - 미친 아두이노](https://www.acmicpc.net/problem/8972)
+* SSAFY FINAL PROJECT
+
+### 17주차 (11/29)
 * [Backjoon - 여행 가자](https://www.acmicpc.net/problem/1976)
 * [Backjoon - 전화번호 목록](https://www.acmicpc.net/problem/5052)
