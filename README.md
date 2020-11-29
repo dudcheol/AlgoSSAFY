@@ -96,3 +96,7 @@
 ### 17주차 (11/29)
 * [Backjoon - 여행 가자](https://www.acmicpc.net/problem/1976)
 * [Backjoon - 전화번호 목록](https://www.acmicpc.net/problem/5052)
+
+### 18주차 (12/2)
+* [Backjoon - 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+* [Backjoon - 보석 도둑](https://www.acmicpc.net/problem/1202)
