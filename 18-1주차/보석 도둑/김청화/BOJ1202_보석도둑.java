@@ -32,11 +32,7 @@ public class BOJ1202_보석도둑 {
 		Arrays.sort(jewelries, new Comparator<Jewelry>(){ // 중복 안 되게 하기 위해서
 			@Override
 			public int compare(Jewelry o1, Jewelry o2) {
-				if(o1.weight != o2.weight)
-					return o1.weight - o2.weight;
-				else {
-					return o2.price - o1.price;
-				}
+				return o1.weight - o2.weight;
 			}
 		});
 		
