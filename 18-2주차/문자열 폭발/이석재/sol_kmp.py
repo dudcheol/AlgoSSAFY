@@ -1,3 +1,6 @@
+# 시간초과
+# KMP는 가능한 시간복잡도로 질문게시판에서 보았던 것 같은데
+# PYTHON이여서 그게 느린건지, 내 코드가 비효율적인지 모르겠지만 시간초과 걸림
 import sys
 
 r = sys.stdin.readline
