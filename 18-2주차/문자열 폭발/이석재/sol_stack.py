@@ -1,3 +1,5 @@
+# 스택사용
+# 자료구조 및 문자열의 길이 등을 변수에 담아서 사용
 import sys
 from collections import deque
 
