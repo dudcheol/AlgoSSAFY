@@ -102,3 +102,7 @@
 * [Backjoon - 보석 도둑](https://www.acmicpc.net/problem/1202)
 * [Backjoon - 친구 네트워크](https://www.acmicpc.net/problem/4195)
 * [Backjoon - 문자열 폭발](https://www.acmicpc.net/problem/9935)
+
+### 19주차 (12/9)
+* [Backjoon - 음주 코딩](https://www.acmicpc.net/problem/5676)
+* [Backjoon - 소수의 곱](https://www.acmicpc.net/problem/2014)
