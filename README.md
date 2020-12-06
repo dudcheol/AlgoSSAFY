@@ -1,7 +1,7 @@
 ﻿# AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 42문제)
-* BackJoon : 21문제
+## 현재까지 푼 문제 수(총 57문제)
+* BackJoon : 36문제
 * Programmers : 17문제
 * SWExpert : 4문제
 
