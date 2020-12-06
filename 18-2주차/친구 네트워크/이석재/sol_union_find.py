@@ -15,7 +15,7 @@ def union(p1, p2):
     p1_head = find(p1)
     p2_head = find(p2)
     if p1_head == p2_head:
-        return max(count[p1_head], count[p2_head])
+        return count[p1_head]
 
     if p1_head not in count:
         count[p1_head] = 1
