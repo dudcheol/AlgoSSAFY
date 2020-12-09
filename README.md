@@ -1,7 +1,7 @@
 ﻿# AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 57문제)
-* BackJoon : 36문제
+## 현재까지 푼 문제 수(총 60문제)
+* BackJoon : 39문제
 * Programmers : 17문제
 * SWExpert : 4문제
 
@@ -106,3 +106,8 @@
 ### 19주차 (12/9)
 * [Backjoon - 음주 코딩](https://www.acmicpc.net/problem/5676)
 * [Backjoon - 소수의 곱](https://www.acmicpc.net/problem/2014)
+
+### 20주차 (12/16)
+* [Backjoon - 오큰수](https://www.acmicpc.net/problem/17298)
+* [Backjoon - 감소하는 수](https://www.acmicpc.net/problem/1038)
+* [Backjoon - 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
