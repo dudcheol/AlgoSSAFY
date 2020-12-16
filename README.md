@@ -1,7 +1,7 @@
 ﻿# AlgoSSAFY
 
 ## 현재까지 푼 문제 수(총 62문제)
-* BackJoon : 39문제
+* BackJoon : 41문제
 * Programmers : 17문제
 * SWExpert : 4문제
 
@@ -91,9 +91,8 @@
 ### 16주차 (11/18, 11/22)
 * [Backjoon - 후보 추천하기](https://www.acmicpc.net/problem/1713)
 * [Backjoon - 미친 아두이노](https://www.acmicpc.net/problem/8972)
-* SSAFY FINAL PROJECT
 
-### 17주차 (11/29)
+### 17주차 (11/29, SSAFY FINAL PROJECT로 인한 휴무)
 * [Backjoon - 여행 가자](https://www.acmicpc.net/problem/1976)
 * [Backjoon - 전화번호 목록](https://www.acmicpc.net/problem/5052)
 
@@ -103,7 +102,7 @@
 * [Backjoon - 친구 네트워크](https://www.acmicpc.net/problem/4195)
 * [Backjoon - 문자열 폭발](https://www.acmicpc.net/problem/9935)
 
-### 19주차 (12/9)
+### 19주차 (12/9, 일부인원 개인사정 및 해커톤 참가로 인한 휴무)
 * [Backjoon - 음주 코딩](https://www.acmicpc.net/problem/5676)
 * [Backjoon - 소수의 곱](https://www.acmicpc.net/problem/2014)
 
