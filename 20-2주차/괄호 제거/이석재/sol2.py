@@ -18,11 +18,11 @@ for index, value in enumerate(input_list):
 
 result = []
 for i in range(1, len(brackets) + 1):
-    for item in combinations(brackets, i):
+    for comb_list in combinations(brackets, i):
         temp = []
-        for item2 in item:
-            temp.append(item2[0])
-            temp.append(item2[1])
+        for combi in comb_list:
+            temp.append(combi[0])
+            temp.append(combi[1])
         temp.sort(reverse=True)
         temp2 = []
         for index in range(len(input_list)):
