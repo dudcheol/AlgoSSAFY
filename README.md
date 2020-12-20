@@ -1,7 +1,7 @@
 ﻿# AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 62문제)
-* BackJoon : 41문제
+## 현재까지 푼 문제 수(총 64문제)
+* BackJoon : 43문제
 * Programmers : 17문제
 * SWExpert : 4문제
 
@@ -112,3 +112,7 @@
 * [Backjoon - 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
 * [Backjoon - 오등큰수](https://www.acmicpc.net/problem/17299)
 * [Backjoon - 괄호 제거](https://www.acmicpc.net/problem/2800)
+
+### 21주차 (12/23)
+* [Backjoon - 강의실 배정](https://www.acmicpc.net/problem/11000)
+* [Backjoon - 색종이 붙이기](https://www.acmicpc.net/problem/17136)
