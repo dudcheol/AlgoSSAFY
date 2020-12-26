@@ -1,6 +1,6 @@
 # 이 문제를 python3로 통과한 사람은 20.12.27 기준 0명임
 # base를 관리할 때 자료구조의 popleft, append를 쓰지말고 변수만을 이용해서 조작하고 마지막 위치만 관리한다
-# 자료구조의 연산이 TLE의 원인임.
+# 자료구조의 연산이 TLE의 원인이였음.
 
 import sys
 from itertools import permutations
@@ -37,6 +37,8 @@ for i in range(inning):
 
 result = 0
 for order in permutations(range(1, 9), 8):
+    # 순열을 만든 다음에 index 3번 자리(== 4번 투수 자리)에 1번 투수의 index 값인 0을 넣은 list를 만들어줌
+    # 이렇게 하면 반드시 찾아봐야하는 순열만 연산할 수 있음
     order = [*order[:3], 0, *order[3:]]
     # print(order)
     cur_index, temp_score = 0, 0
