@@ -11,6 +11,8 @@ length, line_num, index = map(int, r().split())
 
 board = deque([])
 board2 = []
+# 이 부분에서 [deque([])]*line_num 으로 처리를 하면 같은 메모리 주소를 가진 deque를 여러개 list에 넣게됨
+# deque가 모든 연산을 공유하게된다. 반복문 쓰던 따로 메모리주소가 다른 객체로 할당해야함
 for i in range(line_num):
     board2.append(deque([]))
 index2 = 0
