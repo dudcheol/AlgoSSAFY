@@ -1,7 +1,8 @@
-﻿# AlgoSSAFY
+# AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 68문제)
-* BackJoon : 47문제
+## 현재까지 푼 문제 수(총 70문제)
+
+* BackJoon : 49문제
 * Programmers : 17문제
 * SWExpert : 4문제
 
@@ -119,6 +120,10 @@
 * [Backjoon - 집합의 표현](https://www.acmicpc.net/problem/1717)
 * [Backjoon - ⚾](https://www.acmicpc.net/problem/17281)
 
-### 22주차 (12/30)
+### 22주차 (12/30, 2021-1/3)
+
 * [Backjoon - 연료 채우기](https://www.acmicpc.net/problem/1826)
 * [Backjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
+* [Backjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
+* [Backjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
+
