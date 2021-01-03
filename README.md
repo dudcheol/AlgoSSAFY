@@ -7,6 +7,7 @@
 * SWExpert : 4문제
 <details>
     <summary>자세히</summary>
+    
 ### 1주차 (07/29, 08/01)
 * [해시](https://d2.naver.com/helloworld/831311)
 * [Java 8 API 스택 공식문서](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html)
