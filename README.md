@@ -1,14 +1,18 @@
 # AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 70문제)
+## 현재까지 푼 문제 수(총 72문제)
 
-* BackJoon : 49문제
-* Programmers : 17문제
-* SWExpert : 4문제
+* `BackJoon` : **51**문제
+* `Programmers` : **17**문제
+* `SWExpert` : **4**문제
+
+---
+
 <details>
-    <summary>1주차 ~ 22주차</summary>
-    
+    <summary>1주차 ~ 22주차 (2020년)</summary>
+
 ### 1주차 (07/29, 08/01)
+
 * [해시](https://d2.naver.com/helloworld/831311)
 * [Java 8 API 스택 공식문서](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html)
 * [스택관련 블로그](https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html)
@@ -16,6 +20,7 @@
 * [2020 카카오 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 ### 2주차 (08/05, 08/09)
+
 * 순열과 조합
 * 정렬
 * Union-Find
@@ -126,10 +131,13 @@
 
 * [Backjoon - 연료 채우기](https://www.acmicpc.net/problem/1826)
 * [Backjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
-* [Backjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
-* [Backjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
-
 
 </details>
 
+---
+
+### 23주차 (1/6)
+
+* [Backjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+* [Backjoon - 압축](https://www.acmicpc.net/problem/1662)
 
