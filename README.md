@@ -6,7 +6,7 @@
 * Programmers : 17문제
 * SWExpert : 4문제
 <details>
-    <summary>자세히</summary>
+    <summary>1주차 ~ 22주차</summary>
     
 ### 1주차 (07/29, 08/01)
 * [해시](https://d2.naver.com/helloworld/831311)
