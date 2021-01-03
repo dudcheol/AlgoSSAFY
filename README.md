@@ -5,7 +5,8 @@
 * BackJoon : 49문제
 * Programmers : 17문제
 * SWExpert : 4문제
-
+<details>
+    <summary>자세히</summary>
 ### 1주차 (07/29, 08/01)
 * [해시](https://d2.naver.com/helloworld/831311)
 * [Java 8 API 스택 공식문서](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html)
@@ -126,4 +127,8 @@
 * [Backjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
 * [Backjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
 * [Backjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
+
+
+</details>
+
 
