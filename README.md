@@ -136,8 +136,10 @@
 
 ---
 
-### 23주차 (1/6)
+### 23주차 (1/6, 1/10)
 
 * [Backjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 * [Backjoon - 압축](https://www.acmicpc.net/problem/1662)
+* [Backjoon - 게리멘더링](https://www.acmicpc.net/problem/17471)
+* [Backjoon - 컵라면](https://www.acmicpc.net/problem/1781)
 
