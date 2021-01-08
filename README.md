@@ -131,6 +131,8 @@
 
 * [Backjoon - 연료 채우기](https://www.acmicpc.net/problem/1826)
 * [Backjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
+* [Backjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
+* [Backjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
 
 </details>
 
