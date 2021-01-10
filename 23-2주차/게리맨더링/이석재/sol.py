@@ -1,3 +1,6 @@
+# https://jeong-pro.tistory.com/165
+# java stream으로 동일하게 
+
 import sys
 from itertools import combinations
 from collections import deque
