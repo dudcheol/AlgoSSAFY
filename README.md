@@ -1,8 +1,8 @@
 # AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 74문제)
+## 현재까지 푼 문제 수(총 76문제)
 
-* `BackJoon` : **53**문제
+* `BackJoon` : **55**문제
 * `Programmers` : **17**문제
 * `SWExpert` : **4**문제
 
@@ -145,7 +145,9 @@
 * [Backjoon - 게리맨더링](https://www.acmicpc.net/problem/17471)
 * [Backjoon - 컵라면](https://www.acmicpc.net/problem/1781)
 
-### 24주차 (1/13)
+### 24주차 (1/13, 1/17)
+
 * [Backjoon - 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 * [Backjoon - 크게 만들기](https://www.acmicpc.net/problem/2812)
-
+* [Backjoon - 다리 만들기 2](https://www.acmicpc.net/problem/17472)
+* [Backjoon - 싸지방에 간 준하](https://www.acmicpc.net/problem/12764)
