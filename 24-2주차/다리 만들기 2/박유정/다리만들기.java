@@ -66,7 +66,7 @@ public class 다리만들기 {
 		q.add(new int[] { 1, 0 });// 현재 노드,다리 길이
 		int cnt = 0;// visted 노드수
 
-		//
+		//프림...인가..?
 		while (!q.isEmpty()) {// 최소 연결 찾기
 			int[] arr = q.poll();
 			int node = arr[0];
