@@ -31,7 +31,7 @@ public class 다리만들기 {
 		}
 		boolean[][] visit = new boolean[N][M];
 
-		for (int i = 0; i < N; i++) {
+		for (int i = 0; i < N; i++) {//섬 번호매기기
 			for (int j = 0; j < M; j++) {
 				if (map[i][j] == 1 && !visit[i][j]) {
 					visit[i][j] = true;
