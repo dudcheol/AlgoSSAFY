@@ -3,7 +3,6 @@ package boj;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
@@ -11,24 +10,14 @@ import java.util.StringTokenizer;
 public class BOJ12764_싸지방에간준하 {
 	static int N;
 	static int[] computer = new int[1000001];
-	static int[][] list;
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		N = Integer.parseInt(br.readLine());
 		
-		list = new int[N][2];
-		StringTokenizer st = null;
-		for (int i = 0; i < N; i++) {
-			st = new StringTokenizer(br.readLine());
-			
-			list[i][0] = Integer.parseInt(st.nextToken());
-			list[i][1] = Integer.parseInt(st.nextToken());
-		}		
-		
-		Arrays.sort(list, new Comparator<int[]>() {
+		PriorityQueue<int[]> pq = new PriorityQueue<int[]>(new Comparator<int[]>() {
 			@Override
-			public int compare(int[] o1, int[] o2) {
+			public int compare(int[] o1, int[] o2) {// 시작시간 정렬
 				return o1[0] - o2[0];
 			}
 		});
@@ -39,32 +28,48 @@ public class BOJ12764_싸지방에간준하 {
 				return o1[0] - o2[0];
 			}
 		}); // 끝 시간 정렬
-		PriorityQueue<Integer> labels = new PriorityQueue<>(); // 라벨 정렬
 
-		int idx = 0; // 총 의자 개수
-		for (int i = 0; i < N; i++) {
-			
-			while(!end.isEmpty()) {
-				if(end.peek()[0] <= list[i][0]) {
-					labels.add(end.poll()[1]);
-				} else 
-					break;
+		PriorityQueue<int[]> labels = new PriorityQueue<int[]>(new Comparator<int[]>() {
+			@Override
+			public int compare(int[] o1, int[] o2) {
+				return o1[1] - o2[1];
 			}
+		}); // 라벨 정렬
+		
+		StringTokenizer st = null;
+		for (int i = 0; i < N; i++) {
+			st = new StringTokenizer(br.readLine());
 			
-			if(labels.isEmpty()) {
-				end.add(new int[] {list[i][1], idx});
-				computer[idx++]++;
+			pq.add(new int[] {Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken())});
+		}
+		
+
+		int idx = 0;
+		for (int i = 0; i < N; i++) {
+			int cur[] = pq.poll();
+			
+			// end가 안 비어있거나, end에서 가장 작은 시간 < cur의 시작시간 이면
+			if(!end.isEmpty() && (labels.size() > 0 || end.peek()[0] <= cur[0])) {
+				
+				while(!end.isEmpty() && end.peek()[0] <= cur[0]) {
+					labels.add(end.poll());
+				}
+				int label = labels.poll()[1];
+				end.add(new int[] {cur[1], label});
+				computer[label]++;
 			
 			} else {
-				int label = labels.poll(); // 앉을 수 있는 의자 중에서 가장 작은 번호
-				end.add(new int[] {list[i][1], label});
-				computer[label]++;
+				end.add(new int[] {cur[1], idx});
+				computer[idx++]++;
 			}
 		}
 		
 		StringBuilder sb = new StringBuilder();
-		for (int i = 0; i < idx; i++) {
-			sb.append(computer[i]).append(" ");
+		sb.append(idx).append("\n");
+		for (int i = 0; i < computer.length; i++) {
+			if(computer[i] != 0)
+				sb.append(computer[i]).append(" ");
+			else break;
 		}
 		
 		System.out.println(sb);
