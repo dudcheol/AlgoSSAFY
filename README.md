@@ -156,7 +156,6 @@
 
 * [Backjoon - Count Circle Groups](https://www.acmicpc.net/problem/10216)
 * [Backjoon - 휴게소 세우기](https://www.acmicpc.net/problem/1477)
-
 * [Backjoon - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 * [Backjoon - 센서](https://www.acmicpc.net/problem/2212)
 
