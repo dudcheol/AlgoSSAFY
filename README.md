@@ -1,8 +1,8 @@
 # AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 80문제)
+## 현재까지 푼 문제 수(총 82문제)
 
-* `BackJoon` : **59**문제
+* `BackJoon` : **61**문제
 * `Programmers` : **17**문제
 * `SWExpert` : **4**문제
 
@@ -10,7 +10,6 @@
 
 <details>
     <summary>1주차 ~ 22주차 (2020년)</summary>
-
 ### 1주차 (07/29, 08/01)
 
 * [해시](https://d2.naver.com/helloworld/831311)
@@ -158,4 +157,9 @@
 * [Backjoon - 휴게소 세우기](https://www.acmicpc.net/problem/1477)
 * [Backjoon - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 * [Backjoon - 센서](https://www.acmicpc.net/problem/2212)
+
+### 26주차 (1/27)
+
+* [Backjoon - 빙산](https://www.acmicpc.net/problem/2573)
+* [Backjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
