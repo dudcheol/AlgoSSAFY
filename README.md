@@ -162,7 +162,6 @@
 
 * [Backjoon - 빙산](https://www.acmicpc.net/problem/2573)
 * [Backjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
-
-- [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
-- [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
+* [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
+* [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
 
