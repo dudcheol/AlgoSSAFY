@@ -1,8 +1,8 @@
 # AlgoSSAFY
 
-## 현재까지 푼 문제 수(총 82문제)
+## 현재까지 푼 문제 수(총 84문제)
 
-* `BackJoon` : **61**문제
+* `BackJoon` : **63**문제
 * `Programmers` : **17**문제
 * `SWExpert` : **4**문제
 
@@ -158,8 +158,11 @@
 * [Backjoon - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 * [Backjoon - 센서](https://www.acmicpc.net/problem/2212)
 
-### 26주차 (1/27)
+### 26주차 (1/27, 1/31)
 
 * [Backjoon - 빙산](https://www.acmicpc.net/problem/2573)
 * [Backjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
+
+- [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
+- [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
 
