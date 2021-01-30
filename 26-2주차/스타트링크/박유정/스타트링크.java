@@ -9,7 +9,6 @@ import java.util.StringTokenizer;
 public class 스타트링크 {
 	static int F, S, G, U, D;
 	static int max = Integer.MAX_VALUE;
-	static int answer = max;
 	static int[] visit=new int[1000001];
 	
 	public static void main(String[] args) throws IOException {
