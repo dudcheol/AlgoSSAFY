@@ -165,3 +165,8 @@
 * [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
 * [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
 
+### 27주차 (2/3)
+
+- [Backjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
+- [Backjoon - 치즈](https://www.acmicpc.net/problem/2636)
+
