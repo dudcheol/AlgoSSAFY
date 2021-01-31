@@ -1,15 +1,24 @@
 # AlgoSSAFY
 
+매주 수요일,일요일 알고리즘 스터디를 하는 스터디 모임입니다. 🔥🧑‍💻🔥
+모임이 있는 날 선정했던 문제들을 풀어오고, 풀이 방법을 공유하는 방식으로 진행하고 있습니다.
+
+<br>
+
+
 ## 현재까지 푼 문제 수(총 86문제)
 
 * `BackJoon` : **65**문제
 * `Programmers` : **17**문제
 * `SWExpert` : **4**문제
 
+<br>
+
 ---
 
 <details>
     <summary>1주차 ~ 22주차 (2020년)</summary>
+    
 ### 1주차 (07/29, 08/01)
 
 * [해시](https://d2.naver.com/helloworld/831311)
@@ -137,6 +146,9 @@
 
 ---
 
+<details>
+    <summary>23주차 ~ 26주차 (2021년 1월)</summary>
+    
 ### 23주차 (1/6, 1/10)
 
 * [Backjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
@@ -164,6 +176,10 @@
 * [Backjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
 * [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
 * [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
+
+</details>
+
+---
 
 ### 27주차 (2/3)
 
