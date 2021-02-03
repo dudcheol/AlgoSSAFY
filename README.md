@@ -6,9 +6,9 @@
 <br>
 
 
-## 현재까지 푼 문제 수(총 86문제)
+## 현재까지 푼 문제 수(총 88문제)
 
-* `BackJoon` : **65**문제
+* `BackJoon` : **67**문제
 * `Programmers` : **17**문제
 * `SWExpert` : **4**문제
 
@@ -181,8 +181,9 @@
 
 ---
 
-### 27주차 (2/3)
-
+### 27주차 (2/3, 2/7)
 - [Backjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
 - [Backjoon - 치즈](https://www.acmicpc.net/problem/2636)
+- [Backjoon - 비숍](https://www.acmicpc.net/problem/1799)
+- [Backjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
 
