@@ -2,8 +2,13 @@
 
 매주 수요일,일요일 알고리즘 스터디를 하는 스터디 모임입니다. 🔥🧑‍💻🔥
 모임이 있는 날 선정했던 문제들을 풀어오고, 풀이 방법을 공유하는 방식으로 진행하고 있습니다.
-
 <br>
+## 멤버
+
+<a href="https://github.com/dudcheol/AlgoSSAFY/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dudcheol/AlgoSSAFY" />
+</a>
+
 
 
 ## 현재까지 푼 문제 수(총 88문제)
