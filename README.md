@@ -6,12 +6,12 @@
 ## 멤버
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dudcheol"><img src="https://avatars.githubusercontent.com/u/40655666?s=400&u=4709e0c1faf1af8499e52a07070075aa0b9f6cdc&v=4" width="100px;" alt=""/><br /><sub><b>DUDCHEOL</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mentalK94"><img src="https://avatars.githubusercontent.com/u/31653025?s=400&u=e1e05fc1d4800aec4f2b54e46eb7b22a46c10db0&v=4" width="100px;" alt=""/><br /><sub><b>mentalK94</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ParkYooJeong"><img src="https://avatars.githubusercontent.com/u/57359207?s=400&v=4" width="100px;" alt=""/><br /><sub><b>ParkYooJeong</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cheonghwakim"><img src="https://avatars.githubusercontent.com/u/43662673?s=400&v=4" width="100px;" alt=""/><br /><sub><b>cheonghwakim</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Endki"><img src="https://avatars.githubusercontent.com/u/24868601?s=400&u=17d281d52787a0d0df6bad9f3b1526d1c6cb5a83&v=4" width="100px;" alt=""/><br /><sub><b>Endki</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/doljae"><img src="https://static.solved.ac/uploads/profile/360x360/fee1816731554225d28d60c04d73150526132263.png" width="100px;" alt=""/><br /><sub><b>doljae</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/dudcheol"><img src="https://avatars.githubusercontent.com/u/40655666?s=400&u=4709e0c1faf1af8499e52a07070075aa0b9f6cdc&v=4" width="100px;" alt=""/><br /><sub><b>DUDCHEOL</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/mentalK94"><img src="https://avatars.githubusercontent.com/u/31653025?s=400&u=e1e05fc1d4800aec4f2b54e46eb7b22a46c10db0&v=4" width="100px;" alt=""/><br /><sub><b>mentalK94</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ParkYooJeong"><img src="https://avatars.githubusercontent.com/u/57359207?s=400&v=4" width="100px;" alt=""/><br /><sub><b>ParkYooJeong</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></a><br /></td>
+    <td align="center"><a href="https://github.com/cheonghwakim"><img src="https://avatars.githubusercontent.com/u/43662673?s=400&v=4" width="100px;" alt=""/><br /><sub><b>cheonghwakim</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></a><br /></td>
+    <td align="center"><a href="https://github.com/Endki"><img src="https://avatars.githubusercontent.com/u/24868601?s=400&u=17d281d52787a0d0df6bad9f3b1526d1c6cb5a83&v=4" width="100px;" alt=""/><br /><sub><b>Endki</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/doljae"><img src="https://static.solved.ac/uploads/profile/360x360/fee1816731554225d28d60c04d73150526132263.png" width="100px;" alt=""/><br /><sub><b>doljae</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
   </tr>
 </table>
 
