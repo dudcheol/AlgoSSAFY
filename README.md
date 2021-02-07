@@ -197,3 +197,5 @@
 - [Backjoon - 치즈](https://www.acmicpc.net/problem/2636)
 - [Backjoon - 비숍](https://www.acmicpc.net/problem/1799)
 - [Backjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
+
+### SSAFY 공통 프로젝트 마무리로 인해 2주간 휴무 (2/8 ~ 2/19)
