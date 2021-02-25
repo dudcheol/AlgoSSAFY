@@ -199,3 +199,4 @@
 - [Backjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
 
 ### SSAFY 공통 프로젝트 마무리로 인해 2주간 휴무 (2/8 ~ 2/19)
+### SSAFY 공통 프로젝트 발표회 준비로 인한 휴무 (~ 2/24)
