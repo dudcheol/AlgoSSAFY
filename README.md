@@ -19,8 +19,8 @@
 
 ## 현재까지 푼 문제 수(총 88문제)
 
-* `BackJoon` : **67**문제
-* `Programmers` : **17**문제
+* `BackJoon` : **70**문제
+* `Programmers` : **20**문제
 * `SWExpert` : **4**문제
 
 <br>
@@ -29,7 +29,7 @@
 
 <details>
     <summary>1주차 ~ 22주차 (2020년)</summary>
-    
+
 ### 1주차 (07/29, 08/01)
 
 * [해시](https://d2.naver.com/helloworld/831311)
@@ -159,7 +159,7 @@
 
 <details>
     <summary>23주차 ~ 26주차 (2021년 1월)</summary>
-    
+
 ### 23주차 (1/6, 1/10)
 
 * [Backjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
@@ -193,10 +193,19 @@
 ---
 
 ### 27주차 (2/3, 2/7)
+
 - [Backjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
 - [Backjoon - 치즈](https://www.acmicpc.net/problem/2636)
 - [Backjoon - 비숍](https://www.acmicpc.net/problem/1799)
 - [Backjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
 
 ### SSAFY 공통 프로젝트 마무리로 인해 2주간 휴무 (2/8 ~ 2/19)
+
 ### SSAFY 공통 프로젝트 발표회 준비로 인한 휴무 (~ 2/24)
+
+### 28주차 (3/7)
+
+- [Programmers - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+- [Programmers - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [Programmers - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+
