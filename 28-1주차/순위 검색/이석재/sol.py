@@ -1,8 +1,11 @@
-from bisect import bisect_left
+# 처음에는 집합의 교집합을 이용해서 해결하려고 했음, 시간초과
+# 집합으로 처리하거나 이렇게 하거나 비슷한 시간이 걸릴 것이라고 생각했었음...
 
+from bisect import bisect_left
+from collections import defaultdict
 
 def solution(infos, queries):
-    dict1 = {}
+    dict1 = defaultdict(list)
     languages = ["cpp", "java", "python", "-"]
     positions = ["backend", "frontend", "-"]
     careers = ["senior", "junior", "-"]
@@ -24,10 +27,7 @@ def solution(infos, queries):
             for p in positionss:
                 for c in careerss:
                     for f in foodss:
-                        if l + p + c + f in dict1:
-                            dict1[l + p + c + f].append(int(score))
-                        else:
-                            dict1[l + p + c + f] = [int(score)]
+                        dict1[l + p + c + f].append(int(score))
 
     for item in dict1:
         dict1[item].sort()
