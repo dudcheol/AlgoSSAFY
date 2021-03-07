@@ -16,11 +16,10 @@
 </table>
 
 
-
-## 현재까지 푼 문제 수(총 88문제)
+## 현재까지 푼 문제 수(총 89문제)
 
 * `BackJoon` : **70**문제
-* `Programmers` : **20**문제
+* `Programmers` : **21**문제
 * `SWExpert` : **4**문제
 
 <br>
@@ -208,4 +207,8 @@
 - [Programmers - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [Programmers - 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [Programmers - 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+
+### 29주차 (3/10)
+
+- [Programmers - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
 
