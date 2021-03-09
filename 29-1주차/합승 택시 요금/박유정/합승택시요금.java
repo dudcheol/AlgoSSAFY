@@ -9,7 +9,7 @@ public class 합승택시요금 {
 
 			for (int i = 0; i < map.length; i++) {//초기화
 				Arrays.fill(map[i], inf);
-	            map[i][i]=0;
+	           		map[i][i]=0;
 			}
 			for (int i = 0; i < fares.length; i++) {
 				map[fares[i][0]][fares[i][1]] = fares[i][2];
