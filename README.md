@@ -20,7 +20,7 @@
 
 * `BackJoon` : **70**문제
 * `Programmers` : **22**문제
-* `SWExpert` : **4**문제
+* `SWExpert` : **5**문제
 
 <br>
 
@@ -210,5 +210,6 @@
 ### 29주차 (3/10, 3/14)
 
 - [Programmers - 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
-- [Programmers - 광고 삽입 ](https://programmers.co.kr/learn/courses/30/lessons/72414)
+- [Programmers - 광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+- [SWExpert - 미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)
 
