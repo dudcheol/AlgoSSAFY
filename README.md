@@ -216,5 +216,7 @@
 ### 30주차 (3/17, 3/21)
 
 - [Programmers - 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
-- [Programmers - 카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
 
+### 31주차 (3/24)
+
+- [Programmers - 카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
