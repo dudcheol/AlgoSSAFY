@@ -16,10 +16,10 @@
 </table>
 
 
-## 현재까지 푼 문제 수(총 99문제)
+## 현재까지 푼 문제 수(총 100문제)
 
 * `BackJoon` : **70**문제
-* `Programmers` : **24**문제
+* `Programmers` : **25**문제
 * `SWExpert` : **5**문제
 
 <br>
@@ -217,6 +217,9 @@
 
 - [Programmers - 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
 
-### 31주차 (3/24)
+### 31주차 (3/24, 3/28)
 
 - [Programmers - 카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
+
+- [Programmers - 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)
+
