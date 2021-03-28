@@ -16,11 +16,11 @@
 </table>
 
 
-## 현재까지 푼 문제 수(총 100문제)
+## 현재까지 푼 문제 수(총 101문제)
 
 * `BackJoon` : **70**문제
 * `Programmers` : **25**문제
-* `SWExpert` : **5**문제
+* `SWExpert` : **6**문제
 
 <br>
 
@@ -221,4 +221,8 @@
 
 - [Programmers - 카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
 - [Programmers - 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)
-- [Programmers - 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2)
+
+### 32주차 (3/31)
+
+- [SWExpert - 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2)
+
