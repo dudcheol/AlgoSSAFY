@@ -220,6 +220,5 @@
 ### 31주차 (3/24, 3/28)
 
 - [Programmers - 카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)
-
 - [Programmers - 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)
-
+- [Programmers - 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2)
