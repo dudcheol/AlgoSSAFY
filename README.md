@@ -16,11 +16,11 @@
 </table>
 
 
-## 현재까지 푼 문제 수(총 101문제)
+## 현재까지 푼 문제 수(총 102문제)
 
 * `BackJoon` : **70**문제
 * `Programmers` : **25**문제
-* `SWExpert` : **6**문제
+* `SWExpert` : **7**문제
 
 <br>
 
@@ -226,5 +226,9 @@
 
 - [SWExpert - 차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2)
 
-### SSAFY 특화 프로젝트 마무리로 인한 휴무 (4/4)
+### 33주차 (4/4)
+
+- [SWExpert - 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
+
+### SSAFY 특화 프로젝트 마무리로 인한 휴무 (~4/10)
 
