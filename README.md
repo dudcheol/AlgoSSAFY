@@ -230,5 +230,5 @@
 
 - [SWExpert - 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
 
-### SSAFY 특화 프로젝트 마무리로 인한 휴무 (~4/10)
-
+### SSAFY 특화 프로젝트 마무리로 인한 휴무 (~4/11)
+### SSAFY 특화 프로젝트 발표회 준비로 인한 휴무 (~4/17)
