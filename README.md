@@ -3,6 +3,7 @@
 매주 수요일,일요일 알고리즘 스터디를 하는 스터디 모임입니다. 🔥🧑‍💻🔥
 모임이 있는 날 선정했던 문제들을 풀어오고, 풀이 방법을 공유하는 방식으로 진행하고 있습니다.
 <br>
+
 ## 멤버
 <table>
   <tr>
@@ -16,9 +17,9 @@
 </table>
 
 
-## 현재까지 푼 문제 수(총 102문제)
+## 현재까지 푼 문제 수(총 103문제)
 
-* `BackJoon` : **70**문제
+* `Baekjoon` : **71**문제
 * `Programmers` : **25**문제
 * `SWExpert` : **7**문제
 
@@ -57,8 +58,8 @@
 ### 6주차 (9/2, 9/6)
 * [2019 카카오 블라인드 채용 - 무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
 * [2019 카카오 블라인드 채용 - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
-* [Backjoon - 녹색입은 애가 젤다지](https://www.acmicpc.net/problem/4485)
-* [Backjoon - 샘터](https://www.acmicpc.net/problem/18513)
+* [Baekjoon - 녹색입은 애가 젤다지](https://www.acmicpc.net/problem/4485)
+* [Baekjoon - 샘터](https://www.acmicpc.net/problem/18513)
 
 ### 7주차 (9/9, 기업 코딩테스트로 인한 휴무)
 * [swexpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&&&)
@@ -67,22 +68,22 @@
 ### 8주차 (9/16, 9/20)
 * [swexpert - 최솟값으로 이동하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWDTN0cKr1oDFAWD&categoryId=AWDTN0cKr1oDFAWD&categoryType=CODE)
 * [swexpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE)
-* [Backjoon - 스타트 택시](https://www.acmicpc.net/problem/19238)
-* [Backjoon - 어른 상어](https://www.acmicpc.net/problem/19237)
+* [Baekjoon - 스타트 택시](https://www.acmicpc.net/problem/19238)
+* [Baekjoon - 어른 상어](https://www.acmicpc.net/problem/19237)
 
 ### 9주차 (추석휴무, 10/4)
-* [Backjoon - 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-* [Backjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+* [Baekjoon - 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+* [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
 
 ### 10주차 (10/7, 10/11)
-* [Backjoon - 2048(Easy)](https://www.acmicpc.net/problem/12100)
-* [Backjoon - 뱀](https://www.acmicpc.net/problem/3190)
-* [Backjoon - 경사로](https://www.acmicpc.net/problem/14890)
-* [Backjoon - 시험 감독](https://www.acmicpc.net/problem/13458)
+* [Baekjoon - 2048(Easy)](https://www.acmicpc.net/problem/12100)
+* [Baekjoon - 뱀](https://www.acmicpc.net/problem/3190)
+* [Baekjoon - 경사로](https://www.acmicpc.net/problem/14890)
+* [Baekjoon - 시험 감독](https://www.acmicpc.net/problem/13458)
 
 ### 11주차 (10/14, 삼성 역량테스트로 인한 휴무)
-* [Backjoon - 주사위 굴리기](https://www.acmicpc.net/problem/14499)
-* [Backjoon - 큐빙](https://www.acmicpc.net/problem/5373)
+* [Baekjoon - 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+* [Baekjoon - 큐빙](https://www.acmicpc.net/problem/5373)
 
 ### 12주차 (10/21, 10/25)
 * [Programmers - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
@@ -94,62 +95,62 @@
 * [Bellman-Ford Algorithm](https://code0xff.tistory.com/24)
 
 ### 13주차 (10/28, 11/01)
-* [Backjoon - 빗물](https://www.acmicpc.net/problem/14719)
-* [Backjoon - 타임머신](https://www.acmicpc.net/problem/1440)
-* [Backjoon - 별자리 만들기](https://www.acmicpc.net/problem/4386)
-* [Backjoon - 특정한 최단 경우](https://www.acmicpc.net/problem/1504)
+* [Baekjoon - 빗물](https://www.acmicpc.net/problem/14719)
+* [Baekjoon - 타임머신](https://www.acmicpc.net/problem/1440)
+* [Baekjoon - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+* [Baekjoon - 특정한 최단 경우](https://www.acmicpc.net/problem/1504)
 
 ### 14주차 (11/04, 11/08)
-* [Backjoon - Puyo Puyo](https://www.acmicpc.net/problem/11559)
-* [Backjoon - 나이트의 이동](https://www.acmicpc.net/problem/7562)
-* [Backjoon - 네트워크 연결](https://www.acmicpc.net/problem/1922)
-* [Backjoon - 불!](https://www.acmicpc.net/problem/4179)
-* [Backjoon - 적록색약](https://www.acmicpc.net/problem/10026)
+* [Baekjoon - Puyo Puyo](https://www.acmicpc.net/problem/11559)
+* [Baekjoon - 나이트의 이동](https://www.acmicpc.net/problem/7562)
+* [Baekjoon - 네트워크 연결](https://www.acmicpc.net/problem/1922)
+* [Baekjoon - 불!](https://www.acmicpc.net/problem/4179)
+* [Baekjoon - 적록색약](https://www.acmicpc.net/problem/10026)
 
 ### 15주차 (11/11, 11/15)
-* [Backjoon - 무서운 아르바이트](https://www.acmicpc.net/problem/12846)
-* [Backjoon - SNS](https://www.acmicpc.net/problem/2533)
-* [Backjoon - 게임 개발](https://www.acmicpc.net/problem/1516)
-* [Backjoon - 외계인의 기타연주](https://www.acmicpc.net/problem/2841)
-* [Backjoon - 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
+* [Baekjoon - 무서운 아르바이트](https://www.acmicpc.net/problem/12846)
+* [Baekjoon - SNS](https://www.acmicpc.net/problem/2533)
+* [Baekjoon - 게임 개발](https://www.acmicpc.net/problem/1516)
+* [Baekjoon - 외계인의 기타연주](https://www.acmicpc.net/problem/2841)
+* [Baekjoon - 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
 
 ### 16주차 (11/18, 11/22)
-* [Backjoon - 후보 추천하기](https://www.acmicpc.net/problem/1713)
-* [Backjoon - 미친 아두이노](https://www.acmicpc.net/problem/8972)
+* [Baekjoon - 후보 추천하기](https://www.acmicpc.net/problem/1713)
+* [Baekjoon - 미친 아두이노](https://www.acmicpc.net/problem/8972)
 
 ### 17주차 (11/29, SSAFY FINAL PROJECT로 인한 휴무)
-* [Backjoon - 여행 가자](https://www.acmicpc.net/problem/1976)
-* [Backjoon - 전화번호 목록](https://www.acmicpc.net/problem/5052)
+* [Baekjoon - 여행 가자](https://www.acmicpc.net/problem/1976)
+* [Baekjoon - 전화번호 목록](https://www.acmicpc.net/problem/5052)
 
 ### 18주차 (12/2, 12/6)
-* [Backjoon - 카드 정렬하기](https://www.acmicpc.net/problem/1715)
-* [Backjoon - 보석 도둑](https://www.acmicpc.net/problem/1202)
-* [Backjoon - 친구 네트워크](https://www.acmicpc.net/problem/4195)
-* [Backjoon - 문자열 폭발](https://www.acmicpc.net/problem/9935)
+* [Baekjoon - 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+* [Baekjoon - 보석 도둑](https://www.acmicpc.net/problem/1202)
+* [Baekjoon - 친구 네트워크](https://www.acmicpc.net/problem/4195)
+* [Baekjoon - 문자열 폭발](https://www.acmicpc.net/problem/9935)
 
 ### 19주차 (12/9, 일부인원 개인사정 및 해커톤 참가로 인한 휴무)
-* [Backjoon - 음주 코딩](https://www.acmicpc.net/problem/5676)
-* [Backjoon - 소수의 곱](https://www.acmicpc.net/problem/2014)
+* [Baekjoon - 음주 코딩](https://www.acmicpc.net/problem/5676)
+* [Baekjoon - 소수의 곱](https://www.acmicpc.net/problem/2014)
 
 ### 20주차 (12/16, 12/20)
-* [Backjoon - 오큰수](https://www.acmicpc.net/problem/17298)
-* [Backjoon - 감소하는 수](https://www.acmicpc.net/problem/1038)
-* [Backjoon - 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
-* [Backjoon - 오등큰수](https://www.acmicpc.net/problem/17299)
-* [Backjoon - 괄호 제거](https://www.acmicpc.net/problem/2800)
+* [Baekjoon - 오큰수](https://www.acmicpc.net/problem/17298)
+* [Baekjoon - 감소하는 수](https://www.acmicpc.net/problem/1038)
+* [Baekjoon - 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
+* [Baekjoon - 오등큰수](https://www.acmicpc.net/problem/17299)
+* [Baekjoon - 괄호 제거](https://www.acmicpc.net/problem/2800)
 
 ### 21주차 (12/23, 12/27)
-* [Backjoon - 강의실 배정](https://www.acmicpc.net/problem/11000)
-* [Backjoon - 색종이 붙이기](https://www.acmicpc.net/problem/17136)
-* [Backjoon - 집합의 표현](https://www.acmicpc.net/problem/1717)
-* [Backjoon - ⚾](https://www.acmicpc.net/problem/17281)
+* [Baekjoon - 강의실 배정](https://www.acmicpc.net/problem/11000)
+* [Baekjoon - 색종이 붙이기](https://www.acmicpc.net/problem/17136)
+* [Baekjoon - 집합의 표현](https://www.acmicpc.net/problem/1717)
+* [Baekjoon - ⚾](https://www.acmicpc.net/problem/17281)
 
 ### 22주차 (12/30, 2021-1/3)
 
-* [Backjoon - 연료 채우기](https://www.acmicpc.net/problem/1826)
-* [Backjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
-* [Backjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
-* [Backjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
+* [Baekjoon - 연료 채우기](https://www.acmicpc.net/problem/1826)
+* [Baekjoon - 레이저 통신](https://www.acmicpc.net/problem/6087)
+* [Baekjoon - 화장실의 규칙](https://www.acmicpc.net/problem/19640)
+* [Baekjoon - Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
 
 </details>
 
@@ -160,31 +161,31 @@
 
 ### 23주차 (1/6, 1/10)
 
-* [Backjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
-* [Backjoon - 압축](https://www.acmicpc.net/problem/1662)
-* [Backjoon - 게리맨더링](https://www.acmicpc.net/problem/17471)
-* [Backjoon - 컵라면](https://www.acmicpc.net/problem/1781)
+* [Baekjoon - 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+* [Baekjoon - 압축](https://www.acmicpc.net/problem/1662)
+* [Baekjoon - 게리맨더링](https://www.acmicpc.net/problem/17471)
+* [Baekjoon - 컵라면](https://www.acmicpc.net/problem/1781)
 
 ### 24주차 (1/13, 1/17)
 
-* [Backjoon - 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
-* [Backjoon - 크게 만들기](https://www.acmicpc.net/problem/2812)
-* [Backjoon - 다리 만들기 2](https://www.acmicpc.net/problem/17472)
-* [Backjoon - 싸지방에 간 준하](https://www.acmicpc.net/problem/12764)
+* [Baekjoon - 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+* [Baekjoon - 크게 만들기](https://www.acmicpc.net/problem/2812)
+* [Baekjoon - 다리 만들기 2](https://www.acmicpc.net/problem/17472)
+* [Baekjoon - 싸지방에 간 준하](https://www.acmicpc.net/problem/12764)
 
 ### 25주차 (1/20, 1/24)
 
-* [Backjoon - Count Circle Groups](https://www.acmicpc.net/problem/10216)
-* [Backjoon - 휴게소 세우기](https://www.acmicpc.net/problem/1477)
-* [Backjoon - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
-* [Backjoon - 센서](https://www.acmicpc.net/problem/2212)
+* [Baekjoon - Count Circle Groups](https://www.acmicpc.net/problem/10216)
+* [Baekjoon - 휴게소 세우기](https://www.acmicpc.net/problem/1477)
+* [Baekjoon - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+* [Baekjoon - 센서](https://www.acmicpc.net/problem/2212)
 
 ### 26주차 (1/27, 1/31)
 
-* [Backjoon - 빙산](https://www.acmicpc.net/problem/2573)
-* [Backjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
-* [Backjoon - 통학버스](https://www.acmicpc.net/problem/2513)
-* [Backjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
+* [Baekjoon - 빙산](https://www.acmicpc.net/problem/2573)
+* [Baekjoon - 평범한 배낭](https://www.acmicpc.net/problem/12865)
+* [Baekjoon - 통학버스](https://www.acmicpc.net/problem/2513)
+* [Baekjoon - 스타트링크](https://www.acmicpc.net/problem/5014)
 
 </details>
 
@@ -192,10 +193,10 @@
 
 ### 27주차 (2/3, 2/7)
 
-- [Backjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
-- [Backjoon - 치즈](https://www.acmicpc.net/problem/2636)
-- [Backjoon - 비숍](https://www.acmicpc.net/problem/1799)
-- [Backjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
+- [Baekjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
+- [Baekjoon - 치즈](https://www.acmicpc.net/problem/2636)
+- [Baekjoon - 비숍](https://www.acmicpc.net/problem/1799)
+- [Baekjoon - 비밀번호](https://www.acmicpc.net/problem/13908)
 
 ### SSAFY 공통 프로젝트 마무리로 인해 2주간 휴무 (2/8 ~ 2/19)
 
