@@ -17,9 +17,9 @@
 </table>
 
 
-## 현재까지 푼 문제 수(총 103문제)
+## 현재까지 푼 문제 수(총 104문제)
 
-* `Baekjoon` : **71**문제
+* `Baekjoon` : **72**문제
 * `Programmers` : **25**문제
 * `SWExpert` : **7**문제
 
@@ -238,4 +238,8 @@
 ### 34주차 (4/18)
 
 - [Baekjoon - 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)
+
+### 35주차 (4/21)
+
+- [Baekjoon - 여왕벌](https://www.acmicpc.net/problem/10836)
 
