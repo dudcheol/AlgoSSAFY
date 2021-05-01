@@ -9,7 +9,7 @@
 ### 이석재
 
 ```java
-// Q1. 아래 4가지 차이를 아는 대로 
+// Q1. 아래 4가지 차이를 아는 대로 말해줘
 String a = "ssafy";
 String b = new String("ssafy");
 StringBuilder builder = new StringBuilder("ssafy");
