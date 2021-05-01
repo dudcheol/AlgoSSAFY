@@ -8,7 +8,13 @@
 
 ### 이석재
 
-```내용을 입력하세요```
+```java
+// Q1. 아래 4가지 차이를 아는 대로 
+String a = "ssafy";
+String b = new String("ssafy");
+StringBuilder builder = new StringBuilder("ssafy");
+StringBuffer buffer = new StringBuffer("ssafy");
+```
 
 ### 김한솔
 
