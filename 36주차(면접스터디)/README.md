@@ -33,4 +33,4 @@ StringBuffer buffer = new StringBuffer("ssafy");
 
 ### 김청화
 
-```내용을 입력하세요```
+```살면서 가장 힘든 일이 무엇이었고 어떻게 해결했는가```
