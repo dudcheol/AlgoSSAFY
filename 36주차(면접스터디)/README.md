@@ -29,7 +29,7 @@ StringBuffer buffer = new StringBuffer("ssafy");
 
 ### 박유정
 
-```내용을 입력하세요```
+```당신은 어떤 개발자가 되고 싶으신가요?```
 
 ### 김청화
 
