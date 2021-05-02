@@ -22,7 +22,7 @@ StringBuffer buffer = new StringBuffer("ssafy");
 
 ### 박영철
 
-```내용을 입력하세요```
+```본인이 창의적이었다고 생각했던 경험을 하나 얘기해보세요```
 
 ### 박유정
 
