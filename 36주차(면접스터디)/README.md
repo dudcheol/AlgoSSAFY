@@ -23,6 +23,8 @@
 
 * 문자열의 단순 concat연산(str+str+str+...)은 새 Object를 Constant Pool에 생성하기 때문에 메모리 관점에서 비효율적이다.
 * 내부적으로 + 연산이 많아지는 경우 StringBuilder를 생성해 append하는 식으로 구현이 되어있지만 빈번한 문자열 조작이 필요한 경운 StringBuilder, StringBuffer를 사용하는 것이 좋다.
+
+// Q2. 추상 클래스 vs 인터페이스??
 ```
 
 ### 김한솔
