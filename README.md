@@ -243,3 +243,5 @@
 
 - [Baekjoon - 여왕벌](https://www.acmicpc.net/problem/10836)
 
+### SSAFY 특화 프로젝트 마무리로 인한 휴무 (~5/23)
+
