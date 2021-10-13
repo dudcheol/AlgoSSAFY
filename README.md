@@ -191,6 +191,9 @@
 
 ---
 
+<details>
+    <summary>27주차 ~ 35주차 (2021년 2월)</summary>
+
 ### 27주차 (2/3, 2/7)
 
 - [Baekjoon - 회장뽑기](https://www.acmicpc.net/problem/2660)
@@ -245,3 +248,4 @@
 
 ### SSAFY 특화 프로젝트 마무리로 인한 휴무 (~5/23)
 
+</details>
